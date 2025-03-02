@@ -14,7 +14,7 @@ This is a Python-based chess engine that allows users to play chess against the 
 
  ##  Installation  
 1. Clone the repository to your local machine:
-`git clone https://github.com/theinit01/AI-ChessEngine.git`
+`git clone https://github.com/Saptarshighoshdastidar/AI-chessEngine.git`
 2. Navigate to the project directory:
 		`cd AI-ChessEngine`
 3. Install the required dependencies
@@ -25,13 +25,13 @@ This is a Python-based chess engine that allows users to play chess against the 
 ## Screenshots
 
 <div align = "center">
-    <img src="https://github.com/theinit01/AI-ChessEngine/blob/main/assets/screen.gif" alt="Animated GIF" />
+    <img src="https://github.com/Saptarshighoshdastidar/AI-chessEngine.git" alt="Animated GIF" />
 </div>
 
 
 ## Usage and Testing
 
-- Download the exe from the [releases](https://github.com/theinit01/AI-ChessEngine/releases). Your antivirus would most probably flag it as suspicious, just ignore it :)
+- Download the exe from the [releases](https://github.com). Your antivirus would most probably flag it as suspicious, just ignore it :)
 - Use the mouse to select pieces/moves. 
 - Enjoy playing chess against the computer!
   
